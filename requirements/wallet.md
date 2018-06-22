@@ -19,7 +19,7 @@
 
 ## 钱包项目
 
-![钱包项目 Screenshot](../assets/wallets-list-overview.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/wallets-list-overview.png)
 
 * 需求
 	* 钱包名称
@@ -34,8 +34,8 @@
 
 ## 钱包清单
 
-![钱包项目 Screenshot](../assets/wallets__list-item__assets--emtpy.png)
-![钱包项目 Screenshot](../assets/wallets__list-item__assets-eth.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/wallets__list-item__assets--emtpy.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/wallets__list-item__assets-eth.png)
 
 * 需求
 	* 钱包名称
@@ -66,7 +66,7 @@
 
 ### 转帐
 
-![钱包项目 Screenshot](../assets/cryptocoin-send.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/cryptocoin-send.png)
 
 * 需求
 	* QRCode 扫码带入数值
@@ -82,7 +82,7 @@
 
 ### 收款
 
-![钱包项目 Screenshot](../assets/cryptocoin-receive.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/cryptocoin-receive.png)
 
 * 需求
 	* 钱包名称
@@ -108,7 +108,7 @@
 
 ### 资产管理
 
-![钱包项目 Screenshot](../assets/wallets__list-item__assets-manage.png)
+![钱包项目 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/wallets__list-item__assets-manage.png)
 
 * 需求
 	* 资产清单
