@@ -1,5 +1,84 @@
 # Identity
 
+![思维倒图 Screenshot](https://github.com/idhubnetwork/idhub-app-requirements/blob/dev/assets/idhub-app--id.png)
+
+## My Information
+
+### Location
+
+### Phone
+
+### Edit
+
+- Email
+
+- Avart
+
+## Verifications
+
+## Accounts
+
+### Ethereum Address
+
+## More
+
+### Contacts
+
+- Contacts Item …
+
+### About
+
+- App Version
+
+- Privacy Policy
+
+- Terms and Conditions
+
+- Support
+
+### Advanced
+
+- uPort ID
+
+	- MNID
+
+	- Addres
+
+	- IPFS Profile
+
+	- Refresh Profile
+
+- Funds
+
+	- IDhub Balance
+
+	- Refresh Balances
+
+- Device
+
+	- Device Address
+
+		- Etherscan
+
+	- Device Gas
+
+	- Device Nonce
+
+- Network
+
+	- Network
+
+	- Gas Price
+
+### Account Recovery
+
+- Conform
+
+- Steup Seed Recovery
+
+## Scan QR Code
+
+
 ## 身份创建
 说明：
 让用户完成身分创建程序
