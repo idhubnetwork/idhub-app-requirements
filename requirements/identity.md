@@ -2,79 +2,51 @@
 
 ![思维导图 Screenshot](../assets//idhub-app--id.png)
 
-## My Information
+* 用户信息 My Information
+	* 地理信息 Location
+	* 行动电话 Phone
+	* 编辑 Edit
+		* Email
+		* 头像 Avart
 
-### Location
+* Verifications
 
-### Phone
+* Accounts
 
-### Edit
+* 更多 More
+	* 联系清单 Contacts(List)
+		* 联系项目 Contacts Item …
 
-- Email
+	* 关于 About
+		* 应用版本 App Version
+		* 隐私权 Privacy Policy
+		* 使用条款 Terms and Conditions
+		* 支持 Support
 
-- Avart
+	* 进阶 Advanced
+		* IDHub ID
+			* MNID
+			* Addres
+			* IPFS Profile
+			* Refresh Profile
 
-## Verifications
-
-## Accounts
-
-### Ethereum Address
-
-## More
-
-### Contacts
-
-- Contacts Item …
-
-### About
-
-- App Version
-
-- Privacy Policy
-
-- Terms and Conditions
-
-- Support
-
-### Advanced
-
-- uPort ID
-
-	- MNID
-
-	- Addres
-
-	- IPFS Profile
-
-	- Refresh Profile
-
-- Funds
-
-	- IDHub Balance
-
-	- Refresh Balances
-
-- Device
-
-	- Device Address
-
-		- Etherscan
-
-	- Device Gas
-
-	- Device Nonce
-
-- Network
-
-	- Network
-
-	- Gas Price
-
-### Account Recovery
-
-- Conform
-
-- Steup Seed Recovery
+		* Funds
+			* IDHub Balance
+			* Refresh Balances
+	
+	* 设备 Device
+		* 设备地址 Device Address
+			* Etherscan
+		* Device Gas
+		* Device Nonce
+	
+	* Network
+		* Network
+		* Gas Price
+	
+	* 帐号恢复 Account Recovery
+		* Conform
+		* 安装种子恢复 Steup Seed Recovery
 
 ## Scan QR Code
 
