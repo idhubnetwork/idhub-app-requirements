@@ -2,6 +2,15 @@
 
 ![思维导图 Screenshot](../assets//idhub-app--id.png)
 
+钱包资产项目画面
+
+* 创建身分画面:
+
+	![资产项目 Screenshot](../assets/creat-id__id-empty.png)
+	![资产项目 Screenshot](../assets/creat-id__create-connect.png)
+	![资产项目 Screenshot](../assets/creat-id__cryptocoin-send.png)
+	![资产项目 Screenshot](../assets/creat-id__gas-price-contract.png)
+
 * 用户信息 My Information
 	* 地理信息 Location
 	* 行动电话 Phone
