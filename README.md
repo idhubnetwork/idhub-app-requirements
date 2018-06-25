@@ -11,7 +11,7 @@
 * [沟通纪要](./interviews.md)
 * [需求規格](./requirements.md)
 * 分析規格書
-* 系統設計規格書
+* [系統設計規格書](./system-architecture.md)
 * 測試計畫書
 * 測試報告書
 
