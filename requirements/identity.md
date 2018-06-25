@@ -1,6 +1,6 @@
 # Identity
 
-![思维倒图 Screenshot](https://github.com/IDHubnetwork/IDHub-app-requirements/blob/dev/assets/IDHub-app--id.png)
+![思维导图 Screenshot](../assets//idhub-app--id.png)
 
 ## My Information
 
