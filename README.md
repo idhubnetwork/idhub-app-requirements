@@ -1,4 +1,5 @@
 # IDHub 开发规格书
+![Screenshot](../assets/screen-splash.png)
 
 ## 概述
 
@@ -19,5 +20,5 @@
 
 用于统所有描述的词汇, 保证项目使用统一的词语且表达同一个意思.
 
-
 ## 版本
+v0.1.0-alpha.1
