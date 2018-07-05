@@ -4,25 +4,25 @@
 
 ## QRCode 扫描
 
+## 通知 
+
 ## [Wallet 钱包](./requirements/wallet.md)
 
-## Contact
+## [地址簿 Contacts](./requirements/contacts.md)
 
-## [My Id 身分](./requirements/identity.md)
+## [数字身分 Identity](./requirements/identity.md)
 
-=======
+## [创建帐号 Create Identity](./requirements/create-identity.md)
 
-為最終用戶提供安全的移動自主權身份錢包，以創建他們的身份，管理他們的數據並批准請求。
+### [Splash](./requirements/splash.md)
 
-## Splash
+### [产生地址 Generted address](./requirements/generted-address.md)
 
-## 创建帐号 Create Identity
+### [创建密码 Create seed Password](./requirements/create-password.md)
 
-### 产生地址 Generted address
+### [感谢用户 Welcome](./requirements/welcom.md)
 
-### 创建密码 Create seed Password
-
-### 感谢用户 Welcome
+### First Experience To do
 
 ## [My Id 身分](./requirements/identity.md)
 

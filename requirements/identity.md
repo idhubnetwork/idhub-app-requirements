@@ -1,4 +1,4 @@
-# Identity
+# 数字身分 Identity
 
 用户需求:
 
@@ -204,24 +204,4 @@ Identity Manager 调用身份  | 描述
 撤销  | --
 
 
-## 设置
-
-	- Profile
-
-	- Owner
-
-		- 新增 Owner
-
-		- 移除 Owner
-
-	- Recovery 
-
-		- 变更 Recovery
-
-	- Wallet
-
-		- 估值单位
-
-	- 安全 Security
-
-		- 变更密码 Change password
+## [设置](identity-setting.md)
