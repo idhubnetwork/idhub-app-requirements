@@ -1,5 +1,5 @@
 # IDHub 开发规格书
-![Screenshot](../assets/screen-splash.png)
+![Screenshot](assets/screen-splash.png)
 
 ## 概述
 
