@@ -203,5 +203,5 @@ Identity Manager 调用身份  | 描述
 ------------- | -------------
 撤销  | --
 
-
-## [设置](identity-setting.md)
+* [设置](identity-setting.md)
+* [身分金钥](backup.md)

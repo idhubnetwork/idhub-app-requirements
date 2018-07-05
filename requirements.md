@@ -14,16 +14,6 @@
 
 ## [创建帐号 Create Identity](./requirements/create-identity.md)
 
-### [Splash](./requirements/splash.md)
-
-### [产生地址 Generted address](./requirements/generted-address.md)
-
-### [创建密码 Create seed Password](./requirements/create-password.md)
-
-### [感谢用户 Welcome](./requirements/welcom.md)
-
-### First Experience To do
-
 ## [My Id 身分](./requirements/identity.md)
 
 ## [Wallet 钱包](./requirements/wallet.md)
