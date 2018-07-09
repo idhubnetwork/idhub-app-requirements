@@ -4,16 +4,35 @@
 
 ## 新增 Owner
 
-![所有人](../assets/screen-id-owner-1.png)
-![所有人](../assets/screen-id-owner-edit-1.png)
-![所有人](../assets/screen-id-add-owner-1.png)
-![所有人](../assets/screen-id-add-owner-2.png)
+* 画面：
 
-## 移除 Owner
+	* 所有人清单
 
-![所有人](../assets/screen-id-owner-2.png)
-![所有人](../assets/screen-id-owner-edit-2.png)
-![所有人](../assets/screen-id-remove-owner-02.png)
-![所有人](../assets/screen-id-remove-owner-01.png)
+		![所有人](../assets/screen-id-owner-1.png)
+		![所有人](../assets/screen-id-owner-2.png)
+
+		* 点击右上角编辑，触发编辑模式
+
+	* 编辑模式
+
+		![所有人](../assets/screen-id-owner-edit-1.png)
+		![所有人](../assets/screen-id-owner-edit-2.png)
+
+		* 编辑模式于项目中显示新增按钮，右上角触发移除模式
+
+	* 新增所有人
+
+		![所有人](../assets/screen-id-add-owner-1.png)
+		![所有人](../assets/screen-id-add-owner-2.png)
+
+		* 下一版支持 identity id 自定义
+
+	* 移除所有人
+
+		![所有人](../assets/screen-id-remove-owner-02.png)
+		![所有人](../assets/screen-id-remove-owner-01.png)
+
+		* 所有人最小值 1，当所有人项目剩下 1 个时，不出现移除项目
+		* 移除每个项目时必须弹出确认框，并说明上述条件
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / [设置](identity-setting.md) / 所有人 Owner
