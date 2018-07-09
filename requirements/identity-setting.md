@@ -2,9 +2,19 @@
 
 # [设置](identity-setting.md)
 
+
 * 画面
 
 	![Screen](../assets/screen-id-manager.png)
+
+* 需求
+
+	* 提供用户设置功能
+		* 编辑用户信息
+		* 编辑所有人乙太地址
+		* 编辑复原乙太地址
+		* 编辑钱包资产估值单位
+		* 编辑密码
 
 * 栏位
 
@@ -33,5 +43,7 @@
 	* 安全
 
 		* [安全 Security](#)
+
+
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 设置

@@ -21,26 +21,10 @@
 
 钱包资产项目画面
 
-* [数字身分 Identity](identity.md)
+* [设置 setting](identity-setting.md)
 
-	* [设置 setting](identity-setting.md)
+* [备份金钥 Backup](backup.md)
 
-		* [用戶信息 Profile](profile.md)
-
-		* [所有人 Owner](owner.md)
-
-		* 恢复 Recovery
-
-		* [安全 Security](#)
-
-		* [钱包 wallet](#)
-
-	* [备份金钥 Backup](backup.md)
-
-		* [助記詞 Mnemonic phrase](phrase.md)
-
-		* [加密私钥 Private key](private-key.md)
-
-	* [二維碼掃描 QRCode Scan](qrcode.md)
+* [二維碼掃描 QRCode Scan](qrcode.md)
 
 [ReadMe](../README.md) / [需求规格](../requirements.md) / 数字身分 Identity
