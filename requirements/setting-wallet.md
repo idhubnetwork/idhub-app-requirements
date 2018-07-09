@@ -5,7 +5,7 @@
 * 画面
 
 	![用戶信息](../assets/screen-wallet-menager-wallet.png)
-	![用戶信息](../assets/screen-menager-wallet-unit.png)
+	![用戶信息](../assets/screen-wallet-menager-wallet-unit.png)
 
 * 需求
 
