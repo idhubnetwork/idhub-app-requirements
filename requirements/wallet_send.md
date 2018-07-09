@@ -21,7 +21,7 @@
 			* 金额
 				* 填入金额
 			* Mining
-	* 用户可以切换转出钱包 [To do]
+	* 用户可以切换转出钱包 [Next Version]
 	* 用户可以[切换转出资产](wallet_select-asset.md)
 	* 用户可以通过二維碼扫描转入信息
 

@@ -33,6 +33,6 @@ IDHub 应提供创建帐号功能，称之 IDHub 帐号，作为后续服务扩�
 	* [产生地址 Generted address](generted-address.md)
 	* [创建密码 Create seed Password](create-password.md)
 	* [欢迎与感谢用户 Welcome](welcome.md)
-	* First Experience [To do]
+	* First Experience [Next Version]
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / 创建身分 Create Identity

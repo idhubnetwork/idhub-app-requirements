@@ -32,18 +32,17 @@
 	
 	* 功能
 
-		* [用戶信息 Profile](profile.md)
+		* [用戶信息 Profile](setting-profile.md)
 
-		* [所有人 Owner](owner.md)
+		* [所有人 Owner](setting-owner.md)
 
-		* 恢复 Recovery
+		* 恢复 Recovery[Next Version]
 
-		* [钱包 wallet](#)
+		* [钱包 wallet](setting-wallet.md)
 
 	* 安全
 
-		* [安全 Security](#)
-
+		* [安全 Security](setting-security.md)
 
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 设置

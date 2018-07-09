@@ -2,7 +2,7 @@
 
 為最終用戶提供安全的移動自主權身份錢包，以創建他們的身份，管理他們的數據並批准請求。
 
-* 通知 [To do]
+* 通知 [Next Version]
 
 * [创建身分 Create Identity](./requirements/create-identity.md)
 
@@ -24,7 +24,7 @@
 ## File tree (编辑完删除)
 
 
-* 通知 [To do]
+* 通知 [Next Version]
 
 * [创建身分 Create Identity](./requirements/create-identity.md)
 	
@@ -47,6 +47,8 @@
 		* [安全 Security](./requirements/setting-security.md)
 		
 		* [钱包 wallet](./requirements/setting-wallet.md)
+		
+		* [安全 Security](./requirements/setting-security.md)
 	
 	* [备份金钥 Backup](./requirements/backup.md)
 		
