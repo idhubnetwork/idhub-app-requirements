@@ -4,8 +4,11 @@
 
 * 二維碼掃描 QRCode Scan 画面
 	* 主功能
+
 		![側欄](../assets/screen-side-menu-01.png)
+	
 	* 进阶功能
+	
 		![側欄](../assets/screen-side-menu-02.png)
 
 * 需求

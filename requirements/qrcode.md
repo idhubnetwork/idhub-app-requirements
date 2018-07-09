@@ -5,7 +5,6 @@
 * 二維碼掃描 QRCode Scan 画面
 	
 	![qrcode Screenshot](../assets/screen-qrcode-scan.png)
-
 	![qrcode Screenshot](../assets/screen-scanning.png)
 
 * 需求
