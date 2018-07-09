@@ -1,3 +1,5 @@
+[ReadMe](../README.md) / [需求规格](../requirements.md) / 数字身分 Identity
+
 # 数字身分 Identity
 
 用户需求:
@@ -40,3 +42,5 @@
 		* [加密私钥 Private key](private-key.md)
 
 	* [二維碼掃描 QRCode Scan](qrcode.md)
+
+[ReadMe](../README.md) / [需求规格](../requirements.md) / 数字身分 Identity
