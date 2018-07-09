@@ -1,21 +1,27 @@
+[ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 设置
+
 # [设置](identity-setting.md)
 
-	- Profile
+![Screen](../assets/screen-id-manager.png)
 
-	- Owner
+- [用戶信息 Profile](profile.md)
 
-		- 新增 Owner
+- [所有人 Owner](owner.md)
 
-		- 移除 Owner
+	- 新增 Owner
 
-	- Recovery 
+	- 移除 Owner
 
-		- 变更 Recovery [下一版]
+- Recovery 
 
-	- Wallet
+	- 变更 Recovery [To do]
 
-		- 估值单位
+- Wallet
 
-	- 安全 Security
+	- 估值单位
 
-		- 变更密码 Change password
+- 安全 Security
+
+	- 变更密码 Change password
+
+[ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 设置

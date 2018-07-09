@@ -2,28 +2,59 @@
 
 為最終用戶提供安全的移動自主權身份錢包，以創建他們的身份，管理他們的數據並批准請求。
 
-## QRCode 扫描
+* 通知 [To do]
 
-## 通知 
+* [创建身分 Create Identity](./requirements/create-identity.md)
 
-## [Wallet 钱包](./requirements/wallet.md)
+* [数字身分 Identity](./requirements/identity.md)
 
-## [地址簿 Contacts](./requirements/contacts.md)
+* [钱包 Wallet](./requirements/wallet.md)
 
-## [数字身分 Identity](./requirements/identity.md)
+* [证书](#)
 
-## [创建帐号 Create Identity](./requirements/create-identity.md)
+* [claim](#)
 
-## [My Id 身分](./requirements/identity.md)
+* [地址簿 Contacts](./requirements/contacts.md)
 
-## [Wallet 钱包](./requirements/wallet.md)
+* [二維碼掃描 QRCode Scan](./requirements/qrcode.md)
 
-## [证书](#)
+* [侧栏菜单 Side Navigation](./requirements/sidenav.md)
 
-## [claim](#)
 
-## Contact
+## File tree (编辑完删除)
 
-## QRCode 扫描
-
-## Sidebar
+* 通知 [To do]
+* [创建身分 Create Identity](./requirements/create-identity.md)
+	* [启动画面 Splash](./requirements/splash.md)
+	* [产生地址 Generted address](./requirements/generted-address.md)
+	* [创建密码 Create seed Password](./requirements/create-password.md)
+	* [欢迎与感谢用户 Welcome](./requirements/welcome.md)
+	* First Experience [To do]
+* [数字身分 Identity](./requirements/identity.md)
+	* [设置 setting](./requirements/identity-setting.md)
+		* [用戶信息 Profile](profile.md)
+		* [所有人 Owner](./requirements/owner.md)
+		* 恢复 Recovery
+		* [安全 Security](#)
+		* [钱包 wallet](#)
+	* [备份金钥 Backup](./requirements/backup.md)
+		* [助記詞 Mnemonic phrase](./requirements/phrase.md)
+		* [加密私钥 Private key](./requirements/private-key.md)
+* [钱包 Wallet](./requirements/wallet.md)
+	* [钱包清单](wallet_list.md)
+		* [资产总览元件](wallet_list.md#wallet-item)
+		* [资产项目元件](wallet_list.md#assets-item)
+	* [资产项目](wallet_asset-item.md)
+		* [资产所属钱包元件](wallet_asset-item.md#wallets__assets-item_qrcode)
+	* [转帐 Send](wallet_send.md)
+	* [收帐 Receive](wallet_receive.md)
+	* [资产管理 Assets manage](wallet_assets-manage.md)
+	* [历史 History](wallet_history.md)
+		* [钱包历史 Wallet History](wallet_history.md#list-history)
+		* [资产历史 Asset History](wallet_history.md#assets-history)
+	* [QRCode 扫描](qrcode.md)
+* [证书 Certificate](#)
+* [claim](#)
+* [地址簿 Contacts](./requirements/contacts.md)
+* [扫描 QRCode ](./requirements/qucode.md)
+* [侧栏菜单 Side Navigation](./requirements/sidenav.md)

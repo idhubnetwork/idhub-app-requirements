@@ -1,3 +1,5 @@
+[ReadMe](../README.md) / [需求規格](../requirements.md) / [创建身分 Create Identity](create-identity.md) / 啟動畫面 Splash screen
+
 # 啟動畫面 Splash screen
 
 * 需求:
@@ -13,5 +15,8 @@
 	栏位 | 实例 | 初始值 | 类型 | 规则与描述
 	------------- | ------------- | ------------- | ------------- | -------------
 	Logo |  |  | | 
-	Slogan | Blockchain Identity |  |  | 
+	Content title | Blockchain Identity |  |  | 
 	Button |  | START | | 
+
+
+[ReadMe](../README.md) / [需求規格](../requirements.md) / [创建身分 Create Identity](create-identity.md) / 啟動畫面 Splash screen
