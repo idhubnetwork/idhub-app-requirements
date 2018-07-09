@@ -28,6 +28,25 @@
 		* [资产历史](wallet_history.md#assets-history)
 	* [QRCode 扫描](qrcode.md)
 
+![The splash screen](../assets/screen-wallet-list-item__assets--default.png)
+![The splash screen](../assets/screen-wallet-list-item__assets-manage-1.png)
+![The splash screen](../assets/screen-wallet-list-item__assets-manage-2.png)
+![The splash screen](../assets/screen-wallet-list-item__assets-manage-3.png)
+![The splash screen](../assets/screen-wallet-list-item__assets-manage-4.png)
+![The splash screen](../assets/screen-wallet-list-item__assets-item-list.png)
+![The splash screen](../assets/screen-wallet-list-item__assets--empty.png)
+![The splash screen](../assets/screen-wallet-list-item__history--empty.png)
+![The splash screen](../assets/screen-wallet-list-item__qrcode.png)
+![The splash screen](../assets/screen-wallet-cryptocoin-send.png)
+![The splash screen](../assets/screen-wallet-cryptocoin-send--keying.png)
+![The splash screen](../assets/screen-wallet-select-asset-eth.png)
+![The splash screen](../assets/screen-wallet-select-asset-idhub.png)
+![The splash screen](../assets/screen-wallet-assets-item-idhub.png)
+![The splash screen](../assets/screen-wallet-assets-item-eth.png)
+![The splash screen](../assets/screen-wallet-cryptocoin-receive.png)
+![The splash screen](../assets/screen-wallet-menager-wallet.png)
+![The splash screen](../assets/screen-wallet-menager-wallet-unit.png)
+
 [以下待整理]
 
 ## 私钥

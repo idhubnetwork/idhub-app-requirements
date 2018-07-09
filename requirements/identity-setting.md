@@ -10,7 +10,7 @@
 
 	- Recovery 
 
-		- 变更 Recovery
+		- 变更 Recovery [下一版]
 
 	- Wallet
 

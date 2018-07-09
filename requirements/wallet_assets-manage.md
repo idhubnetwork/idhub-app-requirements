@@ -2,7 +2,7 @@
 
 # <a name="assets-manage">资产管理</a>
 
-![资产管理 Screenshot](../assets/wallets__list-item__assets-manage.png)
+![资产管理 Screenshot](../assets/screen-wallet-list-item__assets-manage-2.png)
 
 * 需求
 	* 资产清单
