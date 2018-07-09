@@ -2,26 +2,26 @@
 
 # [设置](identity-setting.md)
 
-![Screen](../assets/screen-id-manager.png)
+* 画面
 
-- [用戶信息 Profile](profile.md)
+	![Screen](../assets/screen-id-manager.png)
 
-- [所有人 Owner](owner.md)
+* 栏位
+	
+	* IDHub 身分
 
-	- 新增 Owner
+	* 功能
 
-	- 移除 Owner
+		* [用戶信息 Profile](profile.md)
 
-- Recovery 
+		* [所有人 Owner](owner.md)
 
-	- 变更 Recovery [To do]
+		* 恢复 Recovery
 
-- Wallet
+		* [钱包 wallet](#)
 
-	- 估值单位
-
-- 安全 Security
-
-	- 变更密码 Change password
+	* 安全
+	
+		* [安全 Security](#)
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 设置
