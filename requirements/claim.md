@@ -50,7 +50,7 @@
 			Content |  |  | image | 
 			Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 
-		* 点击[Vierify Sign](verifys-sign)检验签名
+		* 点击 [Vierify Sign](#verifys-sign) 检验签名
 
 	* 声明项目预览
 
