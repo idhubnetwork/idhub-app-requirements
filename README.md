@@ -16,8 +16,7 @@
 
 ## 规格书
 
-* [需求规格书](./requirements.md)
-* 分析规格书
+* [需求分析规格书](./requirements.md)
 * [系统设计规格书](./system-architecture.md)
 * 测试计划书
 * 测试报告书

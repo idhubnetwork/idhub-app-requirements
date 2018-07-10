@@ -23,7 +23,6 @@
 
 ## File tree (编辑完删除)
 
-
 * 通知 [Next Version]
 
 * [创建身分 Create Identity](./requirements/create-identity.md)
@@ -47,7 +46,7 @@
 		* [安全 Security](./requirements/setting-security.md)
 		
 		* [钱包 wallet](./requirements/setting-wallet.md)
-		
+
 		* [安全 Security](./requirements/setting-security.md)
 	
 	* [备份金钥 Backup](./requirements/backup.md)

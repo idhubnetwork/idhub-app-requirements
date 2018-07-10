@@ -2,14 +2,14 @@
 
 # 备份金钥 Backup
 
-![备份金钥 Backup](screen-id-recovery-key.png)
+![备份金钥 Backup](../assets/screen-id-recovery-key.png)
 
 * 需求
 
 	* 提供用户导出
 
 		* 应用自带地址1(Owner)、地址2(Recovery) 之助记词
-		
+
 		* 应用自带地址2(Recovery) 之私钥
 	
 	* 此任务非常重要，需在 UI 上强调，确保用户执行并完成该任务
