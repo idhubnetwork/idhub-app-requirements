@@ -28,6 +28,6 @@
 	------------- | ------------- | ------------- | ------------- | -------------
 	Status bar | Verify Backup | | |
 
-* 内容标题文字确认后补上
+* 内容与标题文字确认后补上
 
 [ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / [备份金钥 Backup](backup.md) / 加密私钥 Private key
