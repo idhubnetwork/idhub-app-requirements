@@ -1,4 +1,4 @@
-[ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / 加密私钥 Private key
+[ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / [备份金钥 Backup](backup.md) / 加密私钥 Private key
 
 # 加密私钥 Private key
 
@@ -11,4 +11,4 @@
 ![加密私钥](../assets/screen-verify-backup-success.png)
 ![加密私钥](../assets/screen-verify-backup-Invalid.png)
 
-[ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / 加密私钥 Private key
+[ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / [备份金钥 Backup](backup.md) / 加密私钥 Private key

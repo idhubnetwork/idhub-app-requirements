@@ -1,8 +1,8 @@
-[ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 身分金钥
+[ReadMe](../README.md) / [需求規格](../requirements.md) / [数字身分 Identity](identity.md) / 备份金钥 Backup
 
-# 身分金钥
+# 备份金钥 Backup
 
-![身分金鑰](../assets/screen-id-recovery-key.png)
+![备份金钥 Backup](screen-id-recovery-key.png)
 
 * 需求
 
