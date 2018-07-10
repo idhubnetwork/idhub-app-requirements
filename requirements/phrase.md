@@ -33,4 +33,6 @@
 
 	* 依序点击注记词单词，下方区域单击放入上方; 上方区域单击放入下方
 
+* 内容标题文字确认后补上
+
 [ReadMe](../README.md) / [需求規格](requirements.md) / [数字身分 Identity](identity.md) / 助記詞 Mnemonic phrase
