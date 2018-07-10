@@ -29,7 +29,7 @@
 		
 		![声明](../assets/screen-certificate-3.png)
 		![声明](../assets/screen-certificate-confirmation.png)
-
+		
 	* 声明项目
 
 		![声明](../assets/screen-certificate-item.png)
@@ -42,9 +42,15 @@
 			Content |  |  | image | 
 			Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 
+		* 点击[Vierify Sign](verifys-sign)检验签名
+
+	* 声明项目预览
+
+		* 点击项目内容缩图，检视大图
+
 		![声明](../assets/screen-certificate-item-image-review.png)
 
-	*	检验声明
+	*	<a name="verifys-sign">检验声明</a>
 
 		![声明](../assets/screen-verifi-certificate-item.png)
 
