@@ -17,7 +17,6 @@
 	* <a name="claims-create-item">创建声明</a>
 
 		![声明](../assets/screen-certificate-1.png)
-		![声明](../assets/screen-certificate-2.png)
 
 		* 栏位
 
@@ -27,9 +26,18 @@
 			Content |  |  | image | 
 			Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 		
-		![声明](../assets/screen-certificate-3.png)
-		![声明](../assets/screen-certificate-confirmation.png)
+		* 点击 Content 选择相片
 		
+			![声明](../assets/screen-certificate-2.png)
+		
+		* 点击项 Sign，送出表单
+
+			![声明](../assets/screen-certificate-3.png)
+		
+		* 确认
+
+			![声明](../assets/screen-certificate-confirmation.png)
+
 	* 声明项目
 
 		![声明](../assets/screen-certificate-item.png)
