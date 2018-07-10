@@ -8,11 +8,21 @@
 
 		![声明](../assets/screen-id-claims-empty.png)
 
+		* 点击新增按钮触发[新增项目](#claims-create-item)
+
 	* 清单:
 
 		![声明](../assets/screen-id-claims.png)
 
-	* 创建声明
+	* <a name="claims-create-item">创建声明</a>
+	
+		* 栏位
+
+		栏位 | 实例 | 初始值 | 类型 | 规则与描述
+		------------- | ------------- | ------------- | ------------- | -------------
+		Name |  |  |  | 
+		Content |  |  | image | 
+		Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 
 		![声明](../assets/screen-certificate-1.png)
 		![声明](../assets/screen-certificate-2.png)
