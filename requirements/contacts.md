@@ -17,7 +17,7 @@
 
 		栏位 | 实例 | 初始值 | 类型 | 规则与描述
 		------------- | ------------- | ------------- | ------------- | -------------
-		Contact Item | ![Contact Item](../assets/contacts-list-itemd.png) | | |
+		Contact Item | ![Contact Item](../assets/contacts-list-item.png) | | |
 		Button | ![Create button](../assets/btn-create.png) | | | 
 
 		* 点击新增按钮触发新增联络人画面
@@ -50,7 +50,7 @@
 		栏位 | 实例 | 初始值 | 类型 | 规则与描述
 		------------- | ------------- | ------------- | ------------- | -------------
 		Status bar | Select Contact | | | 
-		Contact Item | ![Contact Item](../assets/contacts-list-itemd.png) | | | 单选
+		Contact Item | ![Contact Item](../assets/contacts-list-item.png) ![Contact Item](../assets/contacts-list-item-active.png) | | | 单选
   
   * 编辑:[To do]
 
