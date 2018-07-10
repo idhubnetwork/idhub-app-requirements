@@ -4,7 +4,7 @@
 
 * 收帐画面：
 
-	![收款 Screenshot](../assets/cryptocoin-receive.png)
+	![收款 Screenshot](../assets/screen-wallet-cryptocoin-receive.png)
 	
 	(Switch Assets 待移除)
 
@@ -16,13 +16,14 @@
 		* 钱包地址 QRcode 显示
 		* 钱包地址 QRcode 画面截图
 		* 金额
+	* 用户可以[切换资产](wallet_select-asset.md)
 
 * 栏位
 
 	栏位 | 实例 | 初始值 | 类型 | 规则与描述
 	------------- | ------------- | ------------- | ------------- | -------------
 	资产所属钱包 QRCode | ![qrcode](../assets/wallet-qrcode.png) |  |  | 
-	资产所属钱包名称 | ETH wallet |  | 字元 | 
+	资产所属钱包名称 | JJ Hung |  | 字元 | 
 	资产所属钱包地址 | 0x71BcF650425e4B11657f76FE87AE10731F8ddd6F |  | 字元 | 
 	复制地址按钮 | ![qrcode](../assets/btn-copy-address.png) | Copy Address | 文字按钮 | 点击复制地址文字 
 	导出地址按钮 | ![qrcode](../assets/icon-upload.png) |  | 按钮 | 点击导出截图，支持其他应用 

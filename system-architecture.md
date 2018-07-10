@@ -69,3 +69,13 @@
       * 须评估上线是否需要自己架设full node节点
     * expolor
       * "carsenk/exploer"
+
+* idhub身份请求授权过程 （暂定）
+
+* 使用者与IDP中间建立认证及费用缴交, IDP对使用者的信息背书. 使用者可以选择将开份身份讯息写在链上
+<!-- ![img](assets/idhub-step01.png) -->
+![img](assets/idhub-step02.png)
+* 使用者像服务商请求获取服务, 服务商提供KYC规格. 使用者选择可以使用的IDP拿取查验过得公开数据将验证过得资料提供给服务商后通过KYC取得服务商的服务提供.
+![img](assets/idhub-step03.png)
+同上图步骤, 只有一个差距. 因為此像认证数据需要动态产生.使用者需要在请求认证当下请求IDP帮忙进行签署在将此认证讯息提供给服务商.
+![img](assets/idhub-step04.png)
