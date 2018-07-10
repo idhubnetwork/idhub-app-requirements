@@ -15,27 +15,44 @@
 		![声明](../assets/screen-id-claims.png)
 
 	* <a name="claims-create-item">创建声明</a>
-	
-		* 栏位
-
-		栏位 | 实例 | 初始值 | 类型 | 规则与描述
-		------------- | ------------- | ------------- | ------------- | -------------
-		Name |  |  |  | 
-		Content |  |  | image | 
-		Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 
 		![声明](../assets/screen-certificate-1.png)
 		![声明](../assets/screen-certificate-2.png)
+
+		* 栏位
+
+			栏位 | 实例 | 初始值 | 类型 | 规则与描述
+			------------- | ------------- | ------------- | ------------- | -------------
+			Name |  |  |  | 
+			Content |  |  | image | 
+			Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
+		
 		![声明](../assets/screen-certificate-3.png)
 		![声明](../assets/screen-certificate-confirmation.png)
 
 	* 声明项目
 
 		![声明](../assets/screen-certificate-item.png)
+
+		* 栏位
+
+			栏位 | 实例 | 初始值 | 类型 | 规则与描述
+			------------- | ------------- | ------------- | ------------- | -------------
+			Name |  |  |  | 
+			Content |  |  | image | 
+			Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
+
 		![声明](../assets/screen-certificate-item-image-review.png)
 
 	*	检验声明
 
 		![声明](../assets/screen-verifi-certificate-item.png)
+
+		* 栏位
+
+			栏位 | 实例 | 初始值 | 类型 | 规则与描述
+			------------- | ------------- | ------------- | ------------- | -------------
+			Sign |  |  |  | Owner address
+			Identity |  |  | Identity address
 
 [ReadMe](../README.md) / [需求規格](../requirements.md) / 声明 Claim
