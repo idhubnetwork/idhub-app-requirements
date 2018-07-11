@@ -20,7 +20,7 @@
     "build": "poi build --config build/poi.config.js",
     "build:lib": "sfc normalize src -d lib --include \"**/*.*\" --include \"!**/__test__/**\" --no-babelrc",
     "prepublishOnly": "npm run build:lib && npm run build",
-    "pregh": "npm run build",
+    "pregh": "poi build --config website/poi.config.js",
     "gh": "gh-pages -d dist"
   },
   "author": "jj <jerry7722@hotmail.com>",

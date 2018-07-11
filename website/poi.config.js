@@ -2,7 +2,7 @@ const pkg = require('../package')
 
 module.exports = {
   entry: 'website/index.js',
-  outDir: 'website/dist',
+  outDir: 'dist',
   define: {
     __DOCUTE_VERSION__: JSON.stringify(pkg.version)
   },
