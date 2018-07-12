@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <path id="check-a" d="M20.707,5.293 C20.316,4.902 19.684,4.902 19.293,5.293 L9,15.586 L4.707,11.293 C4.316,10.902 3.684,10.902 3.293,11.293 C2.902,11.684 2.902,12.316 3.293,12.707 L8.293,17.707 C8.488,17.902 8.744,18 9,18 C9.256,18 9.512,17.902 9.707,17.707 L20.707,6.707 C21.098,6.316 21.098,5.684 20.707,5.293"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="check-b" fill="#fff">
+      <use xlink:href="#check-a"/>
+    </mask>
+    <use fill="#000" xlink:href="#check-a"/>
+    <g fill="#000" mask="url(#check-b)">
+      <rect width="24" height="24"/>
+    </g>
+  </g>
+</svg>
