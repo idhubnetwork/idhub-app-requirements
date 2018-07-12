@@ -97,6 +97,15 @@ const doc = new Docute({
       text: '系统设计规格书'
     },
     {
+      text: '元件',
+      children: [
+        {
+          text: '圖標',
+          link: '/components/icons'
+        }
+      ]
+    },
+    {
       text: '沟通纪要'
     },
     {
@@ -171,6 +180,10 @@ const doc = new Docute({
               link: '/requirements/sidenav'
             }
           ]
+        },
+        {
+          text: 'Component',
+          Link: ''
         }
       ]
     }
