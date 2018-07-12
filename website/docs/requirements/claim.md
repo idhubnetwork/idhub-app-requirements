@@ -8,7 +8,7 @@
 
 ## 清单:
 
-	![声明](/docs/assets/screen-id-claims.png)
+![声明](/docs/assets/screen-id-claims.png)
 
 ## <a name="claims-create-item">创建声明</a>
 
