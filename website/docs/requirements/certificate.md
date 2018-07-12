@@ -4,15 +4,15 @@
 
 ## 状态为空:
 	
-	![声明](/docs/assets/screen-id-certificate-empty.png)
+![声明](/docs/assets/screen-id-certificate-empty.png)
 
 ## 清单:
 
-	![声明](/docs/assets/screen-id-certificate.png)
+![声明](/docs/assets/screen-id-certificate.png)
 
 ## 证书项目
 
-	![声明](/docs/assets/screen-certificate-item.png)
+![声明](/docs/assets/screen-certificate-item.png)
 
 栏位:
 
