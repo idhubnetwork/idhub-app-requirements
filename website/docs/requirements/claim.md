@@ -18,9 +18,9 @@
 
 	栏位 | 实例 | 初始值 | 类型 | 规则与描述
 	------------- | ------------- | ------------- | ------------- | -------------
-	Name |  |  |  | 
-	Content |  |  | image | 
-	Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
+	名称 |  |  |  | 
+	内容 |  |  | image | 
+	签名地址 | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
 
 * 点击 Content 选择相片
 
@@ -42,9 +42,10 @@
 
 栏位 | 实例 | 初始值 | 类型 | 规则与描述
 ------------- | ------------- | ------------- | ------------- | -------------
-Name |  |  |  | 
-Content |  |  | image | 
-Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address | 
+名称 |  |  |  | 
+内容 |  |  | image | 
+签名地址 | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address |
+数字身份地址 | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address |    
 
 * 点击 [Vierify Sign](#verifys-sign) 检验签名
 
@@ -62,6 +63,6 @@ Sign | 0x71BcF650425e4B11657f76FE87AE10731F8d1111 |  | owner Address |
 
 栏位 | 实例 | 初始值 | 类型 | 规则与描述
 ------------- | ------------- | ------------- | ------------- | -------------
-Sign |  |  |  | Owner address
-Identity |  |  | Identity address
+签名地址 |  |  |  | Owner address
+数字身份地址 |  |  | Identity address
 
