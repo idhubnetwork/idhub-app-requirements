@@ -15,7 +15,7 @@
 
   栏位 | 实例 | 初始值 | 类型 | 规则与描述
   ------------- | ------------- | ------------- | ------------- | -------------
-  Contact Item | ![Contact Item](/docs/assets/contacts-list-item.png) | | |
+  联系人队列 | ![Contact Item](/docs/assets/contacts-list-item.png) | | |
   Button | ![Create button](/docs/assets/btn-create.png) | | | 
 
   * 点击新增按钮触发新增联络人画面
@@ -31,12 +31,12 @@
 
   栏位 | 实例 | 初始值 | 类型 | 规则与描述
   ------------- | ------------- | ------------- | ------------- | -------------
-  状态列 | Create New Contact | | | 
-  Address |  | | | 键盘输入、扫描二维码输入
-  Name |  | | | 
-  Note |  | | | 
-  Mobile Number |  | | | 
-  Email Address |  | | | 
+  状态列 | 添加联系人 | | | 
+  数字身份地址 |  | | | 键盘输入、扫描二维码输入
+  姓名 |  | | | 
+  备注 |  | | | 
+  手机号 |  | | | 
+  电子邮箱 |  | | | 
 
 * 選擇:
   
@@ -47,8 +47,8 @@
 
   栏位 | 实例 | 初始值 | 类型 | 规则与描述
   ------------- | ------------- | ------------- | ------------- | -------------
-  状态列 | Select Contact | | | 
-  Contact Item | ![Contact Item](/docs/assets/contacts-list-item.png) ![Contact Item](/docs/assets/contacts-list-item-active.png) | | | 单选
+  状态列 | 选择联系人 | | | 
+  联系人队列| ![Contact Item](/docs/assets/contacts-list-item.png) ![Contact Item](/docs/assets/contacts-list-item-active.png) | | | 单选
 
 * 编辑:[To do]
 
